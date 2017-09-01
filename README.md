@@ -3,7 +3,9 @@ A list of MOOC resources.
 
 ## Topics
 - Android (H)
+  - https://www.udacity.com/courses/android
 - iOS (H)
+  - https://www.udacity.com/courses/ios
 - IoT (Embedded Systems) (K)
 - Networks (K)
 - Full stack development (H)
