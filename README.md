@@ -6,6 +6,7 @@ A list of MOOC resources.
   - https://www.udacity.com/courses/android
 - iOS (H)
   - https://www.udacity.com/courses/ios
+  - Nanodegree by Udacity - https://www.udacity.com/course/ios-developer-nanodegree--nd003
 - IoT (Embedded Systems) (K)
 - Networks (K)
 - Full stack development (H)
