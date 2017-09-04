@@ -4,6 +4,9 @@ A list of MOOC resources.
 ## Topics
 - Android (H)
   - https://www.udacity.com/courses/android
+  - https://www.coursera.org/specializations/android-app-development
+  - https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0
+  - https://www.udemy.com/complete-android-development-course/
 - IoT (Embedded Systems) (K)
 - Networks (K)
 - Full stack development (H)
