@@ -3,13 +3,14 @@ A list of MOOC resources.
 
 ## Topics
 - Android (H)
-  - Android Basics 
-    - [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-    - [User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
-    - [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
-    - [Networking](https://www.udacity.com/course/android-basics-networking--ud843)
-    - [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
-    - [Nanodegree by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+  - Beginner Level
+    - Android Basics Courses by Udacity
+      - [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+      - [User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+      - [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+      - [Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+      - [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+    - [Android Basics Nanodegree by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
   - https://www.udacity.com/courses/android
   - https://www.coursera.org/specializations/android-app-development
   - https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0
