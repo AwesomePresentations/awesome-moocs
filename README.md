@@ -21,6 +21,7 @@ A list of MOOC resources.
   | **[Android App Development for Beginners](https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0) | EdX|
   | **[Android development tutorial for Beginners](https://www.udemy.com/complete-android-development-course/) | Udemy |
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
+  | [ Google Developer Android Certification](https://developers.google.com/training/android/) | Google |
  
 Note - Courses marked with (**) are complete courses
 
