@@ -2,19 +2,28 @@
 A list of MOOC resources.
 
 ## Topics
-- Android
-  - Beginner Level
-    - Android Basics Courses by Udacity
-      - [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
-      - [User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
-      - [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
-      - [Networking](https://www.udacity.com/course/android-basics-networking--ud843)
-      - [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
-    - [Android Basics Nanodegree by Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-  - [All android courses by Udacity](https://www.udacity.com/courses/android)
-  - https://www.coursera.org/specializations/android-app-development
-  - https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0
-  - https://www.udemy.com/complete-android-development-course/
+
+### 1) Android 
+  | Course Link| MOOC Provider|
+  |:--------|:-------------|
+  | [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)| Udacity |
+  | [User Input](https://www.udacity.com/course/android-basics-user-input--ud836) | Udacity |
+  | [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) | Udacity |
+  | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) | Udacity |
+  | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) | Udacity |
+  | **[Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity |
+  | [Java For Android](https://www.coursera.org/learn/java-for-android) | Coursera |
+  | [Intents, Activities, and Broadcast Receivers](https://www.coursera.org/learn/androidapps) | Coursera |
+  | [Services, Local IPC, and Content Providers](https://www.coursera.org/learn/androidapps-2) | Coursera |
+  | [Engineering Maintainable Android Apps](https://www.coursera.org/specializations/android-app-development) | Coursera |
+  | [Capstone MOOC for "Android App Development"](https://www.coursera.org/learn/aadcapstone) | Coursera |
+  | **[Android Specialization](https://www.coursera.org/specializations/android-app-development) | Coursera |
+  | **[Android App Development for Beginners](https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0) | EdX|
+  | **[Android development tutorial for Beginners](https://www.udemy.com/complete-android-development-course/) | Udemy |
+  | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
+ 
+Note - Courses marked with (**) are complete courses
+
 - IoT (Embedded Systems) (K)
 - Networks (K)
 - Full stack development (H)
