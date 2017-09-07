@@ -43,4 +43,10 @@ Thank you for taking out time to help this project!
 ## License
 
 [MIT](https://github.com/Tapia17/awesome-moocs/blob/master/LICENSE)
+
+
+## References
+- [Google Developers Training](https://developers.google.com/training/)
+- [Udacity](https://www.udacity.com/)
+- [Coursera](https://www.coursera.org/)
    
