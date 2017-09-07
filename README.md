@@ -3,7 +3,18 @@ A list of MOOC resources.
 
 ## Topics
 
-### 1) Android 
+### __Android__
+If you want to learn Android from scratch, I would recommend the official source i.e. Google.
+
+__[Google Developers Training Course for Android](https://developers.google.com/training/android/)__
+- It is the best place to learn Android as it covers from the basics to advanced level courses. Almost all of the courses here are hosted on [Udacity](https://www.udacity.com/). 
+- [Associate Android Developer Certification](https://developers.google.com/training/certification/associate-android-developer/) - Google Developer Certification run via Udacity
+- Nanodegrees in Android
+  - [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+  - [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+  
+#### Independent Android Courses
+      
   | Course Link| MOOC Provider|
   |:--------|:-------------|
   | [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)| Udacity |
@@ -11,7 +22,6 @@ A list of MOOC resources.
   | [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) | Udacity |
   | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) | Udacity |
   | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) | Udacity |
-  | **[Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) | Udacity |
   | [Java For Android](https://www.coursera.org/learn/java-for-android) | Coursera |
   | [Intents, Activities, and Broadcast Receivers](https://www.coursera.org/learn/androidapps) | Coursera |
   | [Services, Local IPC, and Content Providers](https://www.coursera.org/learn/androidapps-2) | Coursera |
@@ -21,7 +31,6 @@ A list of MOOC resources.
   | **[Android App Development for Beginners](https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0) | EdX|
   | **[Android development tutorial for Beginners](https://www.udemy.com/complete-android-development-course/) | Udemy |
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
-  | [ Google Developer Android Certification](https://developers.google.com/training/android/) | Google |
  
 Note - Courses marked with (**) are complete courses
 
