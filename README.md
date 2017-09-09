@@ -43,8 +43,9 @@ Note - Courses marked with (**) are complete courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------|
-  | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/networks-illustrated#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Easy |  | Coursera |
+  | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/friends-money-bytes#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Super Easy | Just For Fun! | Coursera |
   | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand relevant network architecture & protocols | Easy | Web Developers | Udacity |
+  | [Computer Networking (A Step Further)](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Easy | Network Engineers, Network administrators | Lynda |
   | [*Computer Networking (A Step Further)](https://www.coursetalk.com/providers/stanford-online/courses/introduction-to-computer-networking-self-paced?utm_medium=referral&utm_source=stanford-online&utm_campaign=widget&utm_content=counter#reviews)| Algorithms behind network protocols, packets switching, routing etc. | Intermediate | Network Engineers, Network administrators | EdX |
   | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of basic networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
   
