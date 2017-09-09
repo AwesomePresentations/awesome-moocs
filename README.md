@@ -62,13 +62,13 @@ Note - Courses marked with (**) are complete courses
   
  #### Certifications
       
-  | Certification| Objective | Preperation|
-  |:----------------|:--------------|:-----|:---------|
- | [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html)| | |
- | [Microsoft Networking Fundamentals (Exam 98-366)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator| 40366A|
-  | [Microsoft Windows Server Administration Fundamentals (Exam 98-365)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator| 40365A|
-  |  [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator| 40367A(https://mva.microsoft.com/en-US/training-courses/security-fundamentals-8283?l=pinxx9Wy_5604984382)|
- | [Ethical Hacking Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| | |
+ | Certification| Objective | Preperation|
+ |:----------------|:--------------|:-----|
+ | [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html) | xxx | xxx |
+ | [Microsoft Networking Fundamentals (Exam 98-366)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)|  Network/Systems Administrator | 40366A |
+  | [Microsoft Windows Server Administration Fundamentals (Exam 98-365)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator | 40365A |
+  |  [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx) | Network/Systems Administrator | 40367A(https://mva.microsoft.com/en-US/training-courses/security-fundamentals-8283?l=pinxx9Wy_5604984382) |
+ | [Ethical Hacking Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| xxx | xxx |
 
 - Full stack development (H)
   - Front-end development
