@@ -39,17 +39,24 @@ Note - Courses marked with (**) are complete courses
   
 ### __Computer Networking__
 
-#### Interactive Courses
+#### Networking Foundation Courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------|
-  | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| Basic Architecture & Protocol Layers | Easy | Web Developers | Udacity |
+  | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/networks-illustrated#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Easy |  | Coursera |
+  | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand relevant network architecture & protocols | Easy | Web Developers | Udacity |
   | [*Computer Networking (A Step Further)](https://www.coursetalk.com/providers/stanford-online/courses/introduction-to-computer-networking-self-paced?utm_medium=referral&utm_source=stanford-online&utm_campaign=widget&utm_content=counter#reviews)| Algorithms behind network protocols, packets switching, routing etc. | Intermediate | Network Engineers, Network administrators | EdX |
-  | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of basic concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
+  | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of basic networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
+  
+  
+ #### Network Security Courses
+      
+  | Course Link| Topics | Difficulty | Objective | MOOC Provider|
+  |:----------------|:--------------|:-----|:---------|:---------| 
   | [*Web Server Security](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Web Developers | Udacity |
   | [*Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
   | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
-    | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
+  | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
   
   #### Certification
  [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html) 
