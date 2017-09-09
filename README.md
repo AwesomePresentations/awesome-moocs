@@ -54,7 +54,8 @@ Note - Courses marked with (**) are complete courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------| 
-  | [*Web Server Security](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Web Developers | Udacity |
+  | [*Server Security (Quick & Easy)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Software Developers, Web Developers | Udacity |
+  | [*Server Security (More!)](https://www.lynda.com/Linux-tutorials/Linux-Network-Configuration/530434-2.html) | More configuration tricks to route traffic on your network via a Linux machine | Intermediate | Network Engineers, Network administrators, Hardware Engineers | Udacity |
   | [*Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
   | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
   | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
