@@ -39,7 +39,7 @@ Note - Courses marked with (**) are complete courses
   
 ### __Computer Networking__
 
-#### Networking Foundation Courses
+#### Networking Foundation
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------|
@@ -50,7 +50,7 @@ Note - Courses marked with (**) are complete courses
   | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
   
   
- #### Network Security Courses
+ #### Network Security
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------| 
@@ -60,11 +60,15 @@ Note - Courses marked with (**) are complete courses
   | [Network Security under 1.5 hour](https://www.lynda.com/Windows-Server-tutorials/IT-Security-Foundations-Network-Security/410326-2.html) | Securing an organization's network, preperation for MTA 98-367 certification | Beginner | Network administrators | Udacity |
   | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
   
-  #### Certification
- |:----------------|:--------------|
- [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html)
- [Microsoft Network Security (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)
- [Ethical Hacking Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+ #### Certifications
+      
+  | Certification| Objective | Preperation|
+  |:----------------|:--------------|:-----|:---------|
+ [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html)| | |
+ [Microsoft Networking Fundamentals (Exam 98-366)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator| 40366A|
+  [Microsoft Windows Server Administration Fundamentals (Exam 98-365)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator| 40365A|
+   [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator| 40367A(https://mva.microsoft.com/en-US/training-courses/security-fundamentals-8283?l=pinxx9Wy_5604984382)|
+ [Ethical Hacking Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| | |
 
 - Full stack development (H)
   - Front-end development
