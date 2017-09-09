@@ -42,7 +42,7 @@ Note - Courses marked with (**) are complete courses
   #### Computer Networking Courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
-  |:---------|:----------------|:------|:---------|:---------|
+  |:----------------|:--------------|:-----|:---------|:---------|
   | [Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| Basic Architecture & Protocols | Easy | Web Developers | Udacity |
   | [Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of basic concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Intermediate | Network Engineers, Network administrators | Udacity |
   | [Secure a Web Server](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Web Developers | Udacity |
