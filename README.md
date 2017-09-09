@@ -34,11 +34,26 @@ __[Google Developers Training Course for Android](https://developers.google.com/
  
 Note - Courses marked with (**) are complete courses
 
-- IoT (Embedded Systems) (K)
-- Networks (K)
+- IoT (Embedded Systems)
+  
+  
+- Networks
+
+  #### Computer Networking Courses
+      
+  | Course Link| Topics | Difficulty | Objective | MOOC Provider|
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | **[Quick & Easy](https://www.udacity.com/course/networking-for-web-developers--ud256)| Basic Architecture & Protocols | Easy | Everyone | Udacity |
+  | **[Comprehensive](https://www.udacity.com/course/computer-networking--ud436) | Review of basic concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Intermediate | Network Engineer | Udacity |
+  | **[Secure a Web Server](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Everyone | Udacity |
+  | **[Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Network Engineers | Udacity |
+  | **[Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineer | Udacity |
+ 
+
 - Full stack development (H)
   - Front-end development
   - Back-end development
+  
 - Machine Learning (AI, natural language processing)(K)
 - Algorithms (H)
 - ? Operating Systems (K)
