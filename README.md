@@ -45,9 +45,9 @@ Note - Courses marked with (**) are complete courses
   |:----------------|:--------------|:-----|:---------|:---------|
   | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/friends-money-bytes#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Super Easy | Just For Fun! | Coursera |
   | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand relevant network architecture & protocols | Easy | Web Developers | Udacity |
-  | [Computer Networking (A Step Further)](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Easy | Network Engineers, Network administrators | Lynda |
-  | [*Computer Networking (A Step Further)](https://www.coursetalk.com/providers/stanford-online/courses/introduction-to-computer-networking-self-paced?utm_medium=referral&utm_source=stanford-online&utm_campaign=widget&utm_content=counter#reviews)| Algorithms behind network protocols, packets switching, routing etc. | Intermediate | Network Engineers, Network administrators | EdX |
-  | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of basic networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
+  | [Computer Networking (A Step Further)](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Easy | Software Developers, Network Engineers, Network administrators | Lynda |
+  | [*Computer Networking (A Step Further)](https://www.coursetalk.com/providers/stanford-online/courses/introduction-to-computer-networking-self-paced?utm_medium=referral&utm_source=stanford-online&utm_campaign=widget&utm_content=counter#reviews)| Theories & algorithms behind networking concepts | Intermediate | Network Engineers, Network administrators | EdX |
+  | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
   
   
  #### Network Security Courses
@@ -57,11 +57,13 @@ Note - Courses marked with (**) are complete courses
   | [*Server Security (Quick & Easy)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Software Developers, Web Developers | Udacity |
   | [*Server Security (More!)](https://www.lynda.com/Linux-tutorials/Linux-Network-Configuration/530434-2.html) | More configuration tricks to route traffic on your network via a Linux machine | Intermediate | Network Engineers, Network administrators, Hardware Engineers | Udacity |
   | [*Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
-  | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
+  | [Network Security under 1.5 hour](https://www.lynda.com/Windows-Server-tutorials/IT-Security-Foundations-Network-Security/410326-2.html) | Securing an organization's network, preperation for MTA 98-367 certification | Beginner | Network administrators | Udacity |
   | [*Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
   
   #### Certification
- [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html) 
+ |:----------------|:--------------|
+ [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html)
+ [Microsoft Network Security (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)
  [Ethical Hacking Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
 - Full stack development (H)
