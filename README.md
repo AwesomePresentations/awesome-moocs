@@ -37,9 +37,9 @@ Note - Courses marked with (**) are complete courses
 - IoT (Embedded Systems)
   
   
-- Networks
+### __Computer Networking__
 
-  #### Computer Networking Courses
+#### Interactive Courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------|
@@ -48,7 +48,10 @@ Note - Courses marked with (**) are complete courses
   | [Secure a Web Server](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Web Developers | Udacity |
   | [Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
   | [Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
- 
+  
+  #### Certification
+ [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html) 
+ [Ethical Hacking Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
 - Full stack development (H)
   - Front-end development
