@@ -45,11 +45,12 @@ Note - Courses marked with (**) are complete courses
   Source control: 
   
   #### For Hobbyists
-  #####Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
+  Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
           (Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly)
   
   Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
           Skip this step if you already know the target programming language fairly well. 
+          
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
@@ -76,7 +77,7 @@ Note - Courses marked with (**) are complete courses
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Embedded Systems + Compilers](https://www.udacity.com/course/embedded-systems--ud169)| Udacity | Intermediate | ~16 weeks | Free |
   | [Embedded Systems + Memory Systems](https://www.coursera.org/learn/introduction-embedded-systems)| Udacity | Intermediate | ~4 weeks | Free |
-    | [Qualcomm Dragonboard Platform w/ Networking Specialization (Project: Network Surveillance System)](https://www.coursera.org/specializations/internet-of-things#courses)| Coursera | Intermediate | 6 courses x 4 weeks/course | Free |
+  | [Qualcomm Dragonboard Platform w/ Networking Specialization (Project: Network Surveillance System)](https://www.coursera.org/specializations/internet-of-things#courses)| Coursera | Intermediate | 6 courses x 4 weeks/course | Free |
   
 
 
