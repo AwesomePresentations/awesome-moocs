@@ -27,9 +27,8 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Services, Local IPC, and Content Providers](https://www.coursera.org/learn/androidapps-2) | Coursera |
   | [Engineering Maintainable Android Apps](https://www.coursera.org/specializations/android-app-development) | Coursera |
   | [Capstone MOOC for "Android App Development"](https://www.coursera.org/learn/aadcapstone) | Coursera |
-  | **[Android Specialization](https://www.coursera.org/specializations/android-app-development) | Coursera |
-  | **[Android App Development for Beginners](https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0) | EdX|
-  | **[Android development tutorial for Beginners](https://www.udemy.com/complete-android-development-course/) | Udemy |
+  | **[Android Specialization](https://www.coursera.org/specializations/android-app-development) | Coursera | Beginner |
+  | **[Android App Development for Beginners](https://www.edx.org/course/android-app-development-beginners-galileox-caad002x-0) | EdX| Intermediate | ~8 weeks | Free |
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
  
 Note - Courses marked with (**) are complete courses
