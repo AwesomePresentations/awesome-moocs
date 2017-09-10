@@ -37,7 +37,7 @@ Note - Courses marked with (**) are complete courses
 
 
 ### __IoT (Embedded Systems)__
-![alt text](http://free-icon-rainbow.com/i/icon_04558/icon_045580_256.jpg =25x25 "Internet of Things")
+![alt text](https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png "Internet of Things")
   Learning C or Python X
   Choose a Development Platform: 1) Raspberry-Pi (most beginner-friendly) 2) Arduino 3) BeagleBone Black 4) DragonBoard X
   Re-invent the wheel: device drivers
