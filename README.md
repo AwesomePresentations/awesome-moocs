@@ -50,6 +50,7 @@ Note - Courses marked with (**) are complete courses
   | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
   
   
+  
  #### Network Security
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
@@ -59,6 +60,11 @@ Note - Courses marked with (**) are complete courses
   | [**Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
   | [Network Security under 1.5 hour](https://www.lynda.com/Windows-Server-tutorials/IT-Security-Foundations-Network-Security/410326-2.html) | Securing an organization's network, preperation for MTA 98-367 certification | Beginner | Network administrators | Udacity |
   | [**Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
+  | [Ethical Hacking](https://www.lynda.com/Security-tutorials/Introduction-Ethical-Hacking/455716-2.html) | Overview of methods of obtaining passwords, cover spyware etc. | Intermediate | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
+  | [Data-driven Network Security](https://www.lynda.com/Data-Science-tutorials/Data-Driven-Network-Security-Essentials/532189-2.html) | How to use data to improve network security | Intermediate | Network Engnineers, Network administrators | Udacity |
+  
+  
+
   
  #### Certifications
       
