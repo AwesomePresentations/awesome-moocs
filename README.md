@@ -15,14 +15,14 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   
 #### Independent Android Courses
       
-  | Course Link| MOOC Provider|
-  |:--------|:-------------|
-  | [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)| Udacity |
-  | [User Input](https://www.udacity.com/course/android-basics-user-input--ud836) | Udacity |
-  | [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) | Udacity |
-  | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) | Udacity |
-  | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) | Udacity |
-  | [Java For Android](https://www.coursera.org/learn/java-for-android) | Coursera |
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)| Udacity | Beginner | ~2 weeks | Free |
+  | [User Input](https://www.udacity.com/course/android-basics-user-input--ud836) | Udacity | Beginner | ~4 weeks | Free |
+  | [Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) | Udacity | Beginner | ~2 months | Free |
+  | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) | Udacity | Beginner | ~5 weeks | Free |
+  | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) | Udacity | Beginner | ~8 weeks | Free |
+  | [Java For Android](https://www.coursera.org/learn/java-for-android) | Coursera | Beginner | ~4 weeks | Free |
   | [Intents, Activities, and Broadcast Receivers](https://www.coursera.org/learn/androidapps) | Coursera |
   | [Services, Local IPC, and Content Providers](https://www.coursera.org/learn/androidapps-2) | Coursera |
   | [Engineering Maintainable Android Apps](https://www.coursera.org/specializations/android-app-development) | Coursera |
