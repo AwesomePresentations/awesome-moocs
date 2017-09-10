@@ -77,15 +77,6 @@ Note - Courses marked with (**) are complete courses
   | [Magic Mirror](https://youtu.be/fkVBAcvbrjU)| Raspberry Pi | Beginner/Intermediate | ~1 week |
   | [Gesture-controlled TV Remote](https://youtu.be/PrAc10iZJSc)| Raspberry Pi | Intermediate| ~2 weeks | 
   | [Smart Door Lock](https://youtu.be/bAcK80fm1_0)| Raspberry Pi | Intermediate | ~2 weeks | 
-  
-  ###### Other Resources
-  [Raspberry-Pi Official Site (with a list of project ideas & tutorials)](https://www.raspberrypi.org/resources/make/)
-  
-  [Most Popular Raspberry-Pi Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/raspberry-pi/?sort=popular)
-  
-  
-  | Project Link| Platform | Skill Level | Timeline |
-  |:--------|:-------------|:-------------|:-------------|
   | [Amazon Echo](https://youtu.be/xFhSr5qIx2s)| Arduino | Beginner | ~3 hours | 
   | [Chug-meter](https://www.hackster.io/circuito-io-team/chug-meter-for-st-patrick-s-day-by-circuito-io-13b137)| Arduino | Beginner| ~2 days | 
   | [Mood Light](http://www.makeuseof.com/tag/make-ambilight-60/)| Arduino | Beginner | ~1 week |
@@ -94,6 +85,9 @@ Note - Courses marked with (**) are complete courses
   | [3D LED cube](https://youtu.be/T5Aq7cRc-mU)| Arduino | Intermediate | ~2 weeks | 
   
   ###### Other Resources:
+  [Raspberry-Pi Official Site (with a list of project ideas & tutorials)](https://www.raspberrypi.org/resources/make/)
+  
+  [Most Popular Raspberry-Pi Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/raspberry-pi/?sort=popular)
   [Arduino Official Site (with a list of projects ideas & tutorials)](https://playground.arduino.cc/Projects/Ideas)
   
   [Most Popular Arduino Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/arduino/?sort=popular)
