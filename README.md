@@ -45,11 +45,11 @@ Note - Courses marked with (**) are complete courses
   Chip architecture: ARM, AVR, PIC
   Source control: 
   
-  #### For Hobbyists
-  #####Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
+  #### *For Hobbyists*
+  ##### Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
           (Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly)
   
-  #####Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
+  ##### Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
           Skip this step if you already know the target programming language fairly well. 
           
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
@@ -57,7 +57,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
   | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
   
-  #####Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
+  ##### Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
   
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
@@ -67,7 +67,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to RaspberryPi & Python](https://www.coursera.org/learn/raspberry-pi-platform)| Coursera | Beginner | ~4 weeks | Free |
   | [Testing the waters with Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface)| Coursera | Intermediate | ~4 weeks | Free |
   
-  Step 4: Make your own IoT device!
+  ##### Step 4: Make your own IoT device!
   
   | Project Link| Platform | Skill Level | Timeline |
   |:--------|:-------------|:-------------|
@@ -97,7 +97,7 @@ Note - Courses marked with (**) are complete courses
   [Most Popular Arduino Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/arduino/?sort=popular)
   
     
-  #### For Aspiring Professionals
+  #### *For Aspiring Professionals*
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Embedded Systems + Compilers](https://www.udacity.com/course/embedded-systems--ud169)| Udacity | Intermediate | ~16 weeks | Free |
