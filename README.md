@@ -37,6 +37,7 @@ Note - Courses marked with (**) are complete courses
 
 
 ### __IoT (Embedded Systems)__
+![alt text](http://free-icon-rainbow.com/i/icon_04558/icon_045580_256.jpg "Internet of Things")
   Learning C or Python X
   Choose a Development Platform: 1) Raspberry-Pi (most beginner-friendly) 2) Arduino 3) BeagleBone Black 4) DragonBoard X
   Re-invent the wheel: device drivers
