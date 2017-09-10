@@ -47,10 +47,10 @@ Note - Courses marked with (**) are complete courses
   
   #### *For Hobbyists*
   ##### Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
-          (Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly)
+  Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly.
   
   ##### Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
-          Skip this step if you already know the target programming language fairly well. 
+  Skip this step if you already know the target programming language fairly well. 
           
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
@@ -70,7 +70,7 @@ Note - Courses marked with (**) are complete courses
   ##### Step 4: Make your own IoT device!
   
   | Project Link| Platform | Skill Level | Timeline |
-  |:--------|:-------------|:-------------|
+  |:--------|:-------------|:-------------|:-------------|
   | [Amazon Echo](https://youtu.be/d2KvT8tcmNU)| Raspberry Pi | Beginner | ~3 hours | 
   | [Wearable Camera](https://youtu.be/r5pXWky_3T0)| Raspberry Pi | Beginner | ~3 hours | 
   | [Party Photo booth](https://youtu.be/kMGjroIRzj4)| Raspberry Pi | Beginner/Intermediate | ~1 week | 
@@ -84,7 +84,7 @@ Note - Courses marked with (**) are complete courses
   
   
   | Project Link| Platform | Skill Level | Timeline |
-  |:--------|:-------------|:-------------|
+  |:--------|:-------------|:-------------|:-------------|
   | [Amazon Echo](https://youtu.be/xFhSr5qIx2s)| Arduino | Beginner | ~3 hours | 
   | [Chug-meter](https://www.hackster.io/circuito-io-team/chug-meter-for-st-patrick-s-day-by-circuito-io-13b137)| Arduino | Beginner| ~2 days | 
   | [Mood Light](http://www.makeuseof.com/tag/make-ambilight-60/)| Arduino | Beginner | ~1 week |
