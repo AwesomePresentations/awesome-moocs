@@ -1,5 +1,7 @@
-# Awesome MOOCs
-A list of MOOC resources.
+# Awesome MOOCs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Ever wanted to create an Android application, get started in Machine Learning, or utilize social media marketing but don’t know where to start? With massive open online courses (MOOCs), the task has become easier than ever before.
+
+We have compiled this list of MOOC resources so that it is easily accessible to everyone! This list is also shared in Tapia Conference [Birds of a Feather Session](http://tapiaconference.org/schedule/thursday-september-21-2017/130pm-230pm-1/online-education-through-massive-open-online-courses/)
 
 ## __Android__
 If you want to learn Android from scratch, I would recommend the official source i.e. Google.
@@ -31,6 +33,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Networking](https://www.udacity.com/course/android-basics-networking--ud843) | Udacity | Beginner | ~5 weeks | Free |
   | [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) | Udacity | Beginner | ~8 weeks | Free |
   | [Java For Android](https://www.coursera.org/learn/java-for-android) | Coursera | Beginner | ~4 weeks | Free |
+  | [CS 193A: Android App Development](http://web.stanford.edu/class/cs193a/lectures.shtml) | Standford University | Beginner | ~10 weeks | Free |
   | [Intents, Activities, and Broadcast Receivers](https://www.coursera.org/learn/androidapps) | Coursera |
   | [Services, Local IPC, and Content Providers](https://www.coursera.org/learn/androidapps-2) | Coursera |
   | [Engineering Maintainable Android Apps](https://www.coursera.org/specializations/android-app-development) | Coursera |
