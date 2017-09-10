@@ -39,7 +39,6 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Capstone MOOC for "Android App Development"](https://www.coursera.org/learn/aadcapstone) | Coursera |
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
  
-Note - Courses marked with (**) are complete courses
 
 ### __IOS__
 
@@ -61,7 +60,20 @@ Note - Courses marked with (**) are complete courses
   | [Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) | Udacity | Intermediate | ~3 weeks | Free |
   | [All iOS courses by Udacity](https://www.udacity.com/courses/ios)| Udacity |
  
-Note - Courses marked with (**) are complete courses
+### __Front-end development__
+
+#### Certifcations
+  
+  | Course Link| Certificate Provider| Course Producer |
+  |:--------|:-------------|:-------------|
+  | [Front-End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)| Udacity | AT&T, Google, Github, HackReactor |
+
+#### Independent Courses
+      
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)| Udacity | Beginner | ~3 weeks | Free |
+
 
 - IoT (Embedded Systems) (K)
 - Networks (K)
