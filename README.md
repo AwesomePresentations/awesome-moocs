@@ -35,6 +35,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 Note - Courses marked with (**) are complete courses
 
 
+
 ### __IoT (Embedded Systems)__
   Learning C or Python X
   Choose a Development Platform: 1) Raspberry-Pi (most beginner-friendly) 2) Arduino 3) BeagleBone Black 4) DragonBoard X
@@ -45,10 +46,10 @@ Note - Courses marked with (**) are complete courses
   Source control: 
   
   #### For Hobbyists
-  Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
+  #####Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
           (Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly)
   
-  Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
+  #####Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
           Skip this step if you already know the target programming language fairly well. 
           
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
@@ -56,7 +57,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
   | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
   
-  Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
+  #####Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
   
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
