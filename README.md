@@ -57,6 +57,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
   
   Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
+  
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to IoT & Embedded Systems](https://www.coursera.org/learn/iot)| Coursera | Beginner | ~4 weeks | Free |
@@ -66,11 +67,34 @@ Note - Courses marked with (**) are complete courses
   | [Testing the waters with Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface)| Coursera | Intermediate | ~4 weeks | Free |
   
   Step 4: Make your own IoT device!
-  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
-  |:--------|:-------------|:-------------|:-------------|:-------------|
-  | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
-  | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
-    
+  
+  | Project Link| Platform | Skill Level | Timeline |
+  |:--------|:-------------|:-------------|
+  | [Amazon Echo](https://youtu.be/d2KvT8tcmNU)| Raspberry Pi | Beginner | ~3 hours | 
+  | [Wearable Camera](https://youtu.be/r5pXWky_3T0)| Raspberry Pi | Beginner | ~3 hours | 
+  | [Party Photo booth](https://youtu.be/kMGjroIRzj4)| Raspberry Pi | Beginner/Intermediate | ~1 week | 
+  | [Magic Mirror](https://youtu.be/fkVBAcvbrjU)| Raspberry Pi | Beginner/Intermediate | ~1 week |
+  | [Gesture-controlled TV Remote](https://youtu.be/PrAc10iZJSc)| Raspberry Pi | Intermediate| ~2 weeks | 
+  | [Smart Door Lock](https://youtu.be/bAcK80fm1_0)| Raspberry Pi | Intermediate | ~2 weeks | 
+  
+  Other Resources:
+  [Raspberry-Pi Official Site (with a list of project ideas & tutorials)](https://www.raspberrypi.org/resources/make/)
+  [Most Popular Raspberry-Pi Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/raspberry-pi/?sort=popular)
+  
+  
+  | Project Link| Platform | Skill Level | Timeline |
+  |:--------|:-------------|:-------------|
+  | [Amazon Echo](https://youtu.be/xFhSr5qIx2s)| Arduino | Beginner | ~3 hours | 
+  | [Chug-meter](https://www.hackster.io/circuito-io-team/chug-meter-for-st-patrick-s-day-by-circuito-io-13b137)| Arduino | Beginner| ~2 days | 
+  | [Mood Light](http://www.makeuseof.com/tag/make-ambilight-60/)| Arduino | Beginner | ~1 week |
+  | [Soil moisture sensor](http://www.instructables.com/id/Thirsty-Flamingo/)| Arduino | Beginner/Intermediate | ~2 weeks | 
+  | [Smart Door Lock](https://youtu.be/8gzh95w4Hmk)| Arduino | Intermediate | ~2 weeks | 
+  | [3D LED cube](https://youtu.be/T5Aq7cRc-mU)| Arduino | Intermediate | ~2 weeks | 
+  
+  Other Resources:
+  [Arduino Official Site (with a list of projects ideas & tutorials)](https://playground.arduino.cc/Projects/Ideas)
+  [Most Popular Arduino Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/arduino/?sort=popular)
+  
     
   #### For Aspiring Professionals
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
