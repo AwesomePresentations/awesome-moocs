@@ -16,10 +16,10 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 #### Certifcations Courses  
 
   | Course Link| Certificate Provider| Course Producer |
-  |:--------|:-------------|:-------------|:-------------|
-  | [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)| Udacity | Google 
-   | [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)| Udacity | Google |
-   | [Associate Android Developer Certification](https://developers.google.com/training/certification/associate-android-developer/)| Udacity | Google |
+  |:--------|:-------------|:-------------|
+  | [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)| Udacity | Google |
+  | [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)| Udacity | Google |
+  | [Associate Android Developer Certification](https://developers.google.com/training/certification/associate-android-developer/)| Udacity | Google |
 
 #### Independent Android Courses
       
