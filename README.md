@@ -78,8 +78,9 @@ Note - Courses marked with (**) are complete courses
   | [Gesture-controlled TV Remote](https://youtu.be/PrAc10iZJSc)| Raspberry Pi | Intermediate| ~2 weeks | 
   | [Smart Door Lock](https://youtu.be/bAcK80fm1_0)| Raspberry Pi | Intermediate | ~2 weeks | 
   
-  Other Resources:
+  ###### Other Resources
   [Raspberry-Pi Official Site (with a list of project ideas & tutorials)](https://www.raspberrypi.org/resources/make/)
+  
   [Most Popular Raspberry-Pi Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/raspberry-pi/?sort=popular)
   
   
@@ -92,8 +93,9 @@ Note - Courses marked with (**) are complete courses
   | [Smart Door Lock](https://youtu.be/8gzh95w4Hmk)| Arduino | Intermediate | ~2 weeks | 
   | [3D LED cube](https://youtu.be/T5Aq7cRc-mU)| Arduino | Intermediate | ~2 weeks | 
   
-  Other Resources:
+  ###### Other Resources:
   [Arduino Official Site (with a list of projects ideas & tutorials)](https://playground.arduino.cc/Projects/Ideas)
+  
   [Most Popular Arduino Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/arduino/?sort=popular)
   
     
