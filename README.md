@@ -1,9 +1,7 @@
 # Awesome MOOCs
 A list of MOOC resources.
 
-## Topics
-
-### __Android__
+## __Android__
 If you want to learn Android from scratch, I would recommend the official source i.e. Google.
 
 __[Google Developers Training Course for Android](https://developers.google.com/training/android/)__
@@ -40,7 +38,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
  
 
-### __IOS__
+## __IOS__
 
 #### Certifcations
   
@@ -59,8 +57,9 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Auto Layout](https://www.udacity.com/course/auto-layout--ud1026) | Udacity | Intermediate | ~6 days | Free |
   | [Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) | Udacity | Intermediate | ~3 weeks | Free |
   | [All iOS courses by Udacity](https://www.udacity.com/courses/ios)| Udacity |
- 
-### __Front-end development__
+
+
+## __Front-end development__
 
 #### Certifcations
   
@@ -74,8 +73,9 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | Course Link| MOOC Provider| Skill level | Timeline | Cost
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)| Udacity | Beginner | ~3 weeks | Free |
-  
-### __Back-end development__
+
+
+## __Back-end development__
 
 #### Independent Courses
       
@@ -83,7 +83,9 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to backend](https://www.udacity.com/course/intro-to-backend--ud171)| Udacity | Beginner | ~3 weeks | Free |
 
-### __Full Stack Development__
+
+
+## __Full Stack Development__
 
 #### Certifcations
   
@@ -92,7 +94,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)| Udacity | Amazon, AT&T, Google, Github |
 
 
-### __Algorithms__
+## __Algorithms__
 
 #### Independent Courses
       
@@ -113,7 +115,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 
 
 
-## Contributing
+# Contributing
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
@@ -127,12 +129,12 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 
 Thank you for taking out time to help this project!
 
-## License
+# License
 
 [MIT](https://github.com/Tapia17/awesome-moocs/blob/master/LICENSE)
 
 
-## References
+# References
 - [Google Developers Training](https://developers.google.com/training/)
 - [Udacity](https://www.udacity.com/)
 - [Coursera](https://www.coursera.org/)
