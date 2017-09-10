@@ -34,8 +34,52 @@ __[Google Developers Training Course for Android](https://developers.google.com/
  
 Note - Courses marked with (**) are complete courses
 
-- IoT (Embedded Systems)
+
+### __IoT (Embedded Systems)__
+  Learning C or Python X
+  Choose a Development Platform: 1) Raspberry-Pi (most beginner-friendly) 2) Arduino 3) BeagleBone Black 4) DragonBoard X
+  Re-invent the wheel: device drivers
+  Compiler: 
+  Operating System: 
+  Chip architecture: ARM, AVR, PIC
+  Source control: 
   
+  #### For Hobbyists
+  #####Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
+          (Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly)
+  
+  Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
+          Skip this step if you already know the target programming language fairly well. 
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
+  | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
+  
+  Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to IoT & Embedded Systems](https://www.coursera.org/learn/iot)| Coursera | Beginner | ~4 weeks | Free |
+  | [Intro to Arduino & C-programming](https://www.coursera.org/learn/arduino-platform)| Udacity | Beginner | ~4 weeks | Free |
+  | [Testing the waters with Arduino](https://www.coursera.org/learn/interface-with-arduino#)| Coursera | Intermediate | ~4 weeks | Free |
+  | [Intro to RaspberryPi & Python](https://www.coursera.org/learn/raspberry-pi-platform)| Coursera | Beginner | ~4 weeks | Free |
+  | [Testing the waters with Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface)| Coursera | Intermediate | ~4 weeks | Free |
+  
+  Step 4: Make your own IoT device!
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
+  | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
+    
+    
+  #### For Aspiring Professionals
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Embedded Systems + Compilers](https://www.udacity.com/course/embedded-systems--ud169)| Udacity | Intermediate | ~16 weeks | Free |
+  | [Embedded Systems + Memory Systems](https://www.coursera.org/learn/introduction-embedded-systems)| Udacity | Intermediate | ~4 weeks | Free |
+    | [Qualcomm Dragonboard Platform w/ Networking Specialization (Project: Network Surveillance System)](https://www.coursera.org/specializations/internet-of-things#courses)| Coursera | Intermediate | 6 courses x 4 weeks/course | Free |
+  
+
+
   
 ### __Computer Networking__
 
@@ -43,9 +87,9 @@ Note - Courses marked with (**) are complete courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------|
-  | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/friends-money-bytes#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Super Easy | Just For Fun! | Coursera |
-  | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand relevant network architecture & protocols | Easy | Web Developers | Udacity |
-  | [Computer Networking (A Step Further)](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Easy | Software Developers, Network Engineers, Network administrators | Lynda |
+  | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/friends-money-bytes#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Beginner | Just For Fun! | Coursera |
+  | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand relevant network architecture & protocols | Beginner | Web Developers | Udacity |
+  | [Computer Networking (A Step Further)](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Beginner | Software Developers, Network Engineers, Network administrators | Lynda |
   | [*Computer Networking (A Step Further)](https://www.coursetalk.com/providers/stanford-online/courses/introduction-to-computer-networking-self-paced?utm_medium=referral&utm_source=stanford-online&utm_campaign=widget&utm_content=counter#reviews)| Theories & algorithms behind networking concepts | Intermediate | Network Engineers, Network administrators | EdX |
   | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
   
@@ -55,7 +99,7 @@ Note - Courses marked with (**) are complete courses
       
   | Course Link| Topics | Difficulty | Objective | MOOC Provider|
   |:----------------|:--------------|:-----|:---------|:---------| 
-  | [**Server Security (Quick & Easy)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Easy | Software Developers, Web Developers | Udacity |
+  | [**Server Security (Quick & Easy)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Beginner | Software Developers, Web Developers | Udacity |
   | [**Server Security (More!)](https://www.lynda.com/Linux-tutorials/Linux-Network-Configuration/530434-2.html) | More configuration tricks to route traffic on your network via a Linux machine | Intermediate | Network Engineers, Network administrators, Hardware Engineers | Udacity |
   | [**Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
   | [Network Security under 1.5 hour](https://www.lynda.com/Windows-Server-tutorials/IT-Security-Foundations-Network-Security/410326-2.html) | Securing an organization's network, preperation for MTA 98-367 certification | Beginner | Network administrators | Udacity |
