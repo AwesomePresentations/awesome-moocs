@@ -38,7 +38,7 @@ Note - Courses marked with (**) are complete courses
 #### Certifcations
   
   | Course Link| Certificate Provider| Course Producer | Timeline |
-  |--------|-------------|
+  |:--------|:-------------|:-------------|:-------------|
   | [iOS Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003)| Udacity | AT&T, Lyft, Google | ~6 months|
 
 #### Independent Courses
