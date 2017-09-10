@@ -67,12 +67,38 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | Course Link| Certificate Provider| Course Producer |
   |:--------|:-------------|:-------------|
   | [Front-End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)| Udacity | AT&T, Google, Github, HackReactor |
+  | [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)| Udacity | Facebook|
 
 #### Independent Courses
       
   | Course Link| MOOC Provider| Skill level | Timeline | Cost
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)| Udacity | Beginner | ~3 weeks | Free |
+  
+### __Back-end development__
+
+#### Independent Courses
+      
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to backend](https://www.udacity.com/course/intro-to-backend--ud171)| Udacity | Beginner | ~3 weeks | Free |
+
+### __Full Stack Development__
+
+#### Certifcations
+  
+  | Course Link| Certificate Provider| Course Producer |
+  |:--------|:-------------|:-------------|
+  | [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)| Udacity | Amazon, AT&T, Google, Github |
+
+
+### __Algorithms__
+
+#### Independent Courses
+      
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)| Udacity | Beginner | ~4 months | Free |
 
 
 - IoT (Embedded Systems) (K)
