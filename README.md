@@ -36,21 +36,18 @@ Note - Courses marked with (**) are complete courses
 
 
 
-### __IoT (Embedded Systems)__
-![alt text](https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png "Internet of Things")
-  Learning C or Python X
-  Choose a Development Platform: 1) Raspberry-Pi (most beginner-friendly) 2) Arduino 3) BeagleBone Black 4) DragonBoard X
-  Re-invent the wheel: device drivers
-  Compiler: 
-  Operating System: 
-  Chip architecture: ARM, AVR, PIC
-  Source control: 
+## __IoT (Embedded Systems)__ <img width="30" src="https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png">
+  From smart thermostats to Amazon Echo home assistant, electronic devices are becoming more and more interconnected over the web. Internet of Things (IoT) describes a network of devices that collect data from built-in sensors and transfer that data over an information network, enabling us to monitor those physical devices remotely. 
   
-  #### *For Hobbyists*
-  ##### Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
+  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](#The Hobbyist Guide) to get your feet wet in creating your first smart device! 
+  
+  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](#The Professional Guide) to learn all about how the operating system, compiler and the hardware chip work together in an embeded system!
+  
+  ### *The Hobbyist Guide* <img width="30" src="https://d30y9cdsu7xlg0.cloudfront.net/png/120701-200.png" alt="Hobbyists">
+  #### Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
   Note that there are a lot more development platforms out there (such as BeagleBone Black, DragonBoard etc.), but the above two are the most beginner-friendly.
   
-  ##### Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
+  #### Step 2: Brush up on Python (if you chose Raspberry-Pi) or C (if you chose Arduino) programming
   Skip this step if you already know the target programming language fairly well. 
           
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
@@ -58,7 +55,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
   | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
   
-  ##### Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
+  #### Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
   
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
@@ -68,7 +65,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to RaspberryPi & Python](https://www.coursera.org/learn/raspberry-pi-platform)| Coursera | Beginner | ~4 weeks | Free |
   | [Testing the waters with Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-interface)| Coursera | Intermediate | ~4 weeks | Free |
   
-  ##### Step 4: Make your own IoT device!
+  #### Step 4: Make your own IoT device!
   
   | Project Link| Platform | Skill Level | Timeline |
   |:--------|:-------------|:-------------|:-------------|
@@ -85,22 +82,36 @@ Note - Courses marked with (**) are complete courses
   | [Smart Door Lock](https://youtu.be/8gzh95w4Hmk)| Arduino | Intermediate | ~2 weeks | 
   | [3D LED cube](https://youtu.be/T5Aq7cRc-mU)| Arduino | Intermediate | ~2 weeks | 
   
-  ###### Other Resources:
+  ##### Other Resources:
   [Raspberry-Pi Official Site (with a list of project ideas & tutorials)](https://www.raspberrypi.org/resources/make/)
   
   [Most Popular Raspberry-Pi Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/raspberry-pi/?sort=popular)
-  [Arduino Official Site (with a list of projects ideas & tutorials)](https://playground.arduino.cc/Projects/Ideas)
+ 
+ [Arduino Official Site (with a list of projects ideas & tutorials)](https://playground.arduino.cc/Projects/Ideas)
   
   [Most Popular Arduino Projects on Instructables.com](http://www.instructables.com/explore/category/technology/channel/arduino/?sort=popular)
   
-    
-  #### *For Aspiring Professionals*
+  
+### *The Professional Guide* <img width="30" src="https://d30y9cdsu7xlg0.cloudfront.net/png/257088-200.png" alt="Professional">
+Essential Skills: 
+1. Expert in C Programming
+2. Re-invent the wheel: device drivers
+  Compiler: 
+  Operating System: 
+  Chip architecture: ARM, AVR, PIC
+  Source control: 
+
+#### Step 1: 
+  
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Embedded Systems + Compilers](https://www.udacity.com/course/embedded-systems--ud169)| Udacity | Intermediate | ~16 weeks | Free |
   | [Embedded Systems + Memory Systems](https://www.coursera.org/learn/introduction-embedded-systems)| Udacity | Intermediate | ~4 weeks | Free |
   | [Qualcomm Dragonboard Platform w/ Networking Specialization (Project: Network Surveillance System)](https://www.coursera.org/specializations/internet-of-things#courses)| Coursera | Intermediate | 6 courses x 4 weeks/course | Free |
   
+
+
+
 
 
   
