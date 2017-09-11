@@ -122,9 +122,9 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 ## __IoT (Embedded Systems)__ <img width="30" src="https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png">
   From smart thermostats to Amazon Echo home assistant, electronic devices are becoming more and more interconnected over the web. Internet of Things (IoT) describes a network of devices that collect data from built-in sensors and transfer that data over an information network, enabling us to monitor those physical devices remotely. 
   
-  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](.#The-Hobbyist-Guide) to get your feet wet in creating your first smart device! 
+  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](https://github.com/Tapia17/awesome-moocs#the-hobbyist-guide-) to get your feet wet in creating your first smart device! 
   
-  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](.#The-Professional-Guide) to learn all about how the operating system, compiler and the hardware chip work together in an embeded system!
+  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](https://github.com/Tapia17/awesome-moocs#the-professional-guide-) to learn all about how the operating system, compiler and the hardware chip work together in an embeded system!
   
   ### *The Hobbyist Guide* <img width="30" src="https://d30y9cdsu7xlg0.cloudfront.net/png/120701-200.png" alt="Hobbyists">
   #### Step 1. Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
