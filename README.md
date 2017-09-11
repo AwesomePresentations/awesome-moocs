@@ -14,7 +14,7 @@ We have compiled this list of MOOC resources so that it is easily accessible to 
  - [Computer Networking](https://github.com/Tapia17/awesome-moocs#computer-networking-)
  - [Machine Learning / Natural Language Processing](https://github.com/Tapia17/awesome-moocs#machine-learning-ai-natural-language-processing)
  
-## __Android__
+## __Android__ <img width="30" src="http://findicons.com/files/icons/820/simply_google/128/google_android.png" />
 If you want to learn Android from scratch, I would recommend the official source i.e. Google.
 
 __[Google Developers Training Course for Android](https://developers.google.com/training/android/)__
