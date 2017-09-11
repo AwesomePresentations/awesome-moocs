@@ -300,10 +300,19 @@ Last but not least, you can consider getting [certified](https://github.com/Tapi
   
 ## Machine Learning  <img width="30" src="https://d125fmws0bore1.cloudfront.net/assets/legacy/didi/machine-learning-icon-blue-a67a86f69bb33424353a42c0f1c42280f0f1a677431a5615c07d413477f3ed85.gif">
 
-*What is the difference between Artificial Intelligence, Machine Learning and Deep Learning?*
+[Fundamentals](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#fundamentals-): Whether you have prior knowledge about AI or machine learning, this module will help you learn various kinds of ML algorithms (supervised, unsupervised and reinforcemnt learning techniques). 
 
+There are also many ML courses designed with particular applications in mind -- the following modules contain courses that teaches concepts in each specialization and ML techniques that help achieve those tasks. 
+1. [Computer Vision Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#computer-vision-specialization-) 
+
+2. [Natural Language Processing Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#natural-language-processing-specialization-)
+
+3. [Stock Trading Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#stock-trading-specialization-)
+
+4. [Robotics Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#robotics-specialization-)
+
+### *What is the difference between Artificial Intelligence, Machine Learning and Deep Learning?*
 <img width="800" src="https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png">
-
 The diagram above illustrates the relationship between the three buzzwords - Machine Learning is ONE, but not the only,  approach to to Articial Intelligence problems. Machine learning algorithms can be generally catagorized into 4 different settings -- supervised learning, unsupervised learning, reinforcement learning and activie learning (which will not be covered in this list). Deep Learning is a model that can be used in supervised learning, in unsupervised learning, in reinforcement learning. 
 
 ### Fundamentals <img width="30" src="https://www.iconexperience.com/_img/i_collection_png/512x512/plain/cubes.png">
@@ -332,7 +341,7 @@ The diagram above illustrates the relationship between the three buzzwords - Mac
   | [Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing--cx24)| Text processing & feature extraction, language modeling, embeddings, and deep learning machine translation | Udacity | Beginner | ~24 weeks | $1600 + application needed |
   
   
-### Trading Specialization <img width="30" src="https://www.forex.com/~/media/forex/images/global/icons/services/platforms/performance-up-icon.svg">
+### Stock Trading Specialization <img width="30" src="https://www.forex.com/~/media/forex/images/global/icons/services/platforms/performance-up-icon.svg">
   | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
   |:----------------|:--------------|:-----|:---------|:---------|:---------|
   | [ML for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis#)| Predict future outcomes using Random Forest, Lasso Regression, K-means Clustering| Coursera | Intermediate | ~4 weeks | Free |
