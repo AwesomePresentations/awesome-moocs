@@ -4,7 +4,7 @@ Ever wanted to create an Android application, get started in Machine Learning, o
 We have compiled this list of MOOC resources so that it is easily accessible to everyone! This list is also shared in Tapia Conference [Birds of a Feather Session](http://tapiaconference.org/schedule/thursday-september-21-2017/130pm-230pm-1/online-education-through-massive-open-online-courses/)
 
 +Below are the list of topics we have covered here -
- - [Android](https://github.com/Tapia17/awesome-moocs#android)
+ - [Android](https://github.com/Tapia17/awesome-moocs#android-)
  - [iOS](https://github.com/Tapia17/awesome-moocs#ios)
  - [Front End Development](https://github.com/Tapia17/awesome-moocs#front-end-development)
  - [Back End Development](https://github.com/Tapia17/awesome-moocs#back-end-development)
@@ -12,7 +12,7 @@ We have compiled this list of MOOC resources so that it is easily accessible to 
  - [Algorithms](https://github.com/Tapia17/awesome-moocs#algorithms)
  - [IoT / Embedded Systems](https://github.com/Tapia17/awesome-moocs#iot-embedded-systems-)
  - [Computer Networking](https://github.com/Tapia17/awesome-moocs#computer-networking-)
- - [Machine Learning / Natural Language Processing](https://github.com/Tapia17/awesome-moocs#machine-learning-ai-natural-language-processing)
+ - [Machine Learning](https://github.com/Tapia17/awesome-moocs#machine-learning--)
  
 ## __Android__ <img width="30" src="http://findicons.com/files/icons/820/simply_google/128/google_android.png" />
 If you want to learn Android from scratch, I would recommend the official source i.e. Google.
@@ -300,16 +300,16 @@ Last but not least, you can consider getting [certified](https://github.com/Tapi
   
 ## Machine Learning  <img width="30" src="https://d125fmws0bore1.cloudfront.net/assets/legacy/didi/machine-learning-icon-blue-a67a86f69bb33424353a42c0f1c42280f0f1a677431a5615c07d413477f3ed85.gif">
 
-[Fundamentals](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#fundamentals-): Whether you have prior knowledge about AI or machine learning, this module will help you learn various kinds of ML algorithms (supervised, unsupervised and reinforcemnt learning techniques). 
+[Fundamentals](https://github.com/Tapia17/awesome-moocs#fundamentals-): Whether you have prior knowledge about AI or machine learning, this module will help you learn various kinds of ML algorithms (supervised, unsupervised and reinforcemnt learning techniques). 
 
 There are also many ML courses designed with particular applications in mind -- the following modules contain courses that teaches concepts in each specialization and ML techniques that help achieve those tasks. 
-1. [Computer Vision Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#computer-vision-specialization-) 
+1. [Computer Vision Specialization](https://github.com/Tapia17/awesome-moocs#computer-vision-specialization-) 
 
-2. [Natural Language Processing Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#natural-language-processing-specialization-)
+2. [Natural Language Processing Specialization](https://github.com/Tapia17/awesome-moocs#natural-language-processing-specialization-)
 
-3. [Stock Trading Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#stock-trading-specialization-)
+3. [Stock Trading Specialization](https://github.com/Tapia17/awesome-moocs#stock-trading-specialization-)
 
-4. [Robotics Specialization](https://github.com/Tapia17/awesome-moocs/blob/ML/README.md#robotics-specialization-)
+4. [Robotics Specialization](https://github.com/Tapia17/awesome-moocs#robotics-specialization-)
 
 ### *What is the difference between Artificial Intelligence, Machine Learning and Deep Learning?*
 <img width="800" src="https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png">
