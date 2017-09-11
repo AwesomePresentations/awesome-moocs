@@ -111,7 +111,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 ## __IoT (Embedded Systems)__ <img width="30" src="https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png">
   From smart thermostats to Amazon Echo home assistant, electronic devices are becoming more and more interconnected over the web. Internet of Things (IoT) describes a network of devices that collect data from built-in sensors and transfer that data over an information network, enabling us to monitor those physical devices remotely. 
   
-  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](.https://github.com/Tapia17/awesome-moocs#the-hobbyist-guide-) to get your feet wet in creating your first smart device! 
+  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](https://github.com/Tapia17/awesome-moocs#the-hobbyist-guide-) to get your feet wet in creating your first smart device! 
   
   If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](https://github.com/Tapia17/awesome-moocs#the-professional-guide-) to learn all about how the operating system, compiler and the hardware chip work together in an embedded system!
   
@@ -195,8 +195,8 @@ It is also important to get familar with various architectures - ARM, AVR and PI
 
   | Chip Architecture | Example chip/ training board | Projects |
   |:--------|:-------------|:-------------|
-  | ARM | Raspberry-Pi, BeagleBone Black | [Raspberry-Pi projects](.#Step-4.-Make-your-own-IoT-device) |
-  | AVR | Arduino | [Arduino projects](.#Step-4.-Make-your-own-IoT-device) | 
+  | ARM | Raspberry-Pi, BeagleBone Black | [Raspberry-Pi projects](https://github.com/Tapia17/awesome-moocs#step-4-make-your-own-iot-device) |
+  | AVR | Arduino | [Arduino projects](https://github.com/Tapia17/awesome-moocs#step-4-make-your-own-iot-device) | 
   | PIC | 16F877 | [PIC projects](http://www.electronicshub.org/top-pic-microcontroller-projects-ideas/) |
   
 #### Essential Skill #5. Device driver development
@@ -237,10 +237,10 @@ As of now the challenge is not accepting new people, but you can clone the follo
 
 Have you ever wondered how the internet works? What's underneath HTTP? How do you keep your web-browsing data safe from a man-in-the-middle attack?
 
-If you are a web developer, knowing networking protocols will help you develop faster and more reliable web apps. [Web & Software Developer Track](.#Web-&-Software-Developer-Track) is made just for you to learn just enough networking knowledge to up your productivity. 
+If you are a web developer, knowing networking protocols will help you develop faster and more reliable web apps. [Web & Software Developer Track](https://github.com/Tapia17/awesome-moocs#web--software-developer-track-) is made just for you to learn just enough networking knowledge to up your productivity. 
   
-If you are an aspiring network administrator/engineer, the [Network Administrator/Engineer Track](.#Network-Administrator/Engineer-Track) will help you master the [Fundamentals](.#Core#1.-Networking-Fundamentals), and [Cyber Security](.#Core#2.-Cyber-Security).
-Last but not least, you can consider getting [certified](.#Certifications) after taking these courses.
+If you are an aspiring network administrator/engineer, the [Network Administrator/Engineer Track](https://github.com/Tapia17/awesome-moocs#network-administratorengineer-track-) will help you master the [Fundamentals](https://github.com/Tapia17/awesome-moocs#core1-networking-fundamentals), and [Cyber Security](https://github.com/Tapia17/awesome-moocs#core2-cyber-security).
+Last but not least, you can consider getting [certified](https://github.com/Tapia17/awesome-moocs#certifications-) after taking these courses.
   
 
 ### *Web & Software Developer Track* <img width="30" src="https://i.warosu.org/data/g/img/0606/46/1496083532801.png">
