@@ -297,6 +297,19 @@ Last but not least, you can consider getting [certified](https://github.com/Tapi
   
 ## Machine Learning (AI, natural language processing)
 
+### Fundamentals
+### Computer Vision
+### Natural Language Processing
+### Trading
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+https://www.udacity.com/course/machine-learning--ud262
+https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
+https://www.udacity.com/course/introduction-to-computer-vision--ud810
+https://www.udacity.com/course/machine-learning-for-trading--ud501
+
+
+https://www.udacity.com/course/natural-language-processing--cx24
+https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
 
 
 # Contributing
