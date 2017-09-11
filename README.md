@@ -39,9 +39,9 @@ Note - Courses marked with (**) are complete courses
 ## __IoT (Embedded Systems)__ <img width="30" src="https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png">
   From smart thermostats to Amazon Echo home assistant, electronic devices are becoming more and more interconnected over the web. Internet of Things (IoT) describes a network of devices that collect data from built-in sensors and transfer that data over an information network, enabling us to monitor those physical devices remotely. 
   
-  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](#The Hobbyist Guide) to get your feet wet in creating your first smart device! 
+  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](#The-Hobbyist-Guide) to get your feet wet in creating your first smart device! 
   
-  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](#The Professional Guide) to learn all about how the operating system, compiler and the hardware chip work together in an embeded system!
+  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](#The-Professional-Guide) to learn all about how the operating system, compiler and the hardware chip work together in an embeded system!
   
   ### *The Hobbyist Guide* <img width="30" src="https://d30y9cdsu7xlg0.cloudfront.net/png/120701-200.png" alt="Hobbyists">
   #### Step 1: Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
@@ -55,7 +55,7 @@ Note - Courses marked with (**) are complete courses
   | [Intro to C-programming](https://alison.com/course/Introduction-to-Programming-in-C)| Alison | Beginner | ~3 hours| Free |
   | [Intro to Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)| Udacity | Beginner | ~6 weeks | Free |
   
-  #### Step 3: Set up the hardware environment with two of the following courses (one "Beginner" + one "Intermediate")
+  #### Step 3: Set up the environment with two of the following courses (one "Beginner" + one "Intermediate")
   
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
@@ -93,21 +93,67 @@ Note - Courses marked with (**) are complete courses
   
   
 ### *The Professional Guide* <img width="30" src="https://d30y9cdsu7xlg0.cloudfront.net/png/257088-200.png" alt="Professional">
-Essential Skills: 
-1. Expert in C Programming
-2. Re-invent the wheel: device drivers
-  Compiler: 
-  Operating System: 
-  Chip architecture: ARM, AVR, PIC
-  Source control: 
 
-#### Step 1: 
+#### Essential Skill #1. Expert in C Programming
+    
+   In the process of mastering in the following items, you will become an expert in C programming. 
+    
+#### Essential Skill #2. Operating Systems
+
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Intro to Operating System](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Udacity | Intermediate | ~8 weeks | Free |
+  | [Advanced Operating System](https://www.udacity.com/course/advanced-operating-systems--ud189)| Udacity | Advanced | ~5 weeks | Free |
   
+ #### Essential Skill #3. Compilers
+ 
   | Course Link| MOOC Provider| Skill level | Timeline | Cost |
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Embedded Systems + Compilers](https://www.udacity.com/course/embedded-systems--ud169)| Udacity | Intermediate | ~16 weeks | Free |
-  | [Embedded Systems + Memory Systems](https://www.coursera.org/learn/introduction-embedded-systems)| Udacity | Intermediate | ~4 weeks | Free |
+  | [Embedded Systems + Compilers](https://www.coursera.org/learn/introduction-embedded-systems)| Udacity | Intermediate | ~4 weeks | Free |
+    
+#### Essential Skill #4. Chip architecture: 
+
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [Computer Architecture](https://www.udacity.com/course/high-performance-computer-architecture--ud007)| Udacity | Advanced | ~16 weeks | Free |
+  | [Computer Architecture](https://www.coursera.org/learn/comparch#)| Coursera | Advanced | ~4 weeks | Free |
+
+It is also important to get familar with various architectures - ARM, AVR and PIC. 
+
+  | Chip Architecture | Example chip/ training board | Projects |
+  |:--------|:-------------|:-------------|
+  | ARM | Raspberry-Pi, BeagleBone Black | [Raspberry-Pi projects](#Step-4:-Make-your-own-IoT-device!) |
+  | AVR | Arduino | [Arduino projects](#Step-4:-Make-your-own-IoT-device!) | 
+  | PIC | 16F877 | [PIC projects](http://www.electronicshub.org/top-pic-microcontroller-projects-ideas/) |
+  
+#### Essential Skill #5. Device driver development
+Device driver is the key interface between hardware & software. There are very few free courses online for this topic, therefore the best way to learn is to practice writing your own. 
+
+##### Step 1: Start out by writing a simple device driver: 
+[Simple Device Driver Tutorial](https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os)
+
+##### Step 2: Complete the Eudyptula Challenge 
+[Eudyptula Challenge (Tasks to write Linux kernel modules)](https://github.com/agelastic/eudyptula)
+
+The Eudyptula Challenge is a set of Linux programming challenges designed to help you learn Linux kernel programming. 
+
+As of now the challenge is not accepting new people, but you can clone the following github repo, and work on it yourself as practice.
+
+#### Essential Skill #6. Source control: 
+
+ | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+ |:--------|:-------------|:-------------|:-------------|:-------------|
+ | [How to use Git w/ Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)| Udacity | Beginner | ~3 weeks | Free |
+ | [How to use Git w/ Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)| Atlassian | Beginner | ~3 weeks | Free |
+ 
+
+#### Additional Resources 
+
+  | Course Link| MOOC Provider| Skill level | Timeline | Cost |
+  |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Qualcomm Dragonboard Platform w/ Networking Specialization (Project: Network Surveillance System)](https://www.coursera.org/specializations/internet-of-things#courses)| Coursera | Intermediate | 6 courses x 4 weeks/course | Free |
+  | [Recommanded Soldering Kit for your Projects (not a course)](http://www.electricrcaircraftguy.com/2014/08/recommended-soldering-kit.html#.VYdqIPlViko)| ElectricRC Aircraft Guy| N/A | N/A | Free |
   
 
 
@@ -115,44 +161,50 @@ Essential Skills:
 
 
   
-### __Computer Networking__
+## __Computer Networking__ <img width="30" src="http://innovativecomputersolutions.in/wp-content/uploads/2015/04/it-networking-services-company.png">
 
-#### Networking Foundation
+### *Web & Software Developer Track* <img width="30" src="https://i.warosu.org/data/g/img/0606/46/1496083532801.png">
       
-  | Course Link| Topics | Difficulty | Objective | MOOC Provider|
-  |:----------------|:--------------|:-----|:---------|:---------|
-  | [*Computer Networking in Everyday Life](https://www.coursera.org/learn/friends-money-bytes#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Beginner | Just For Fun! | Coursera |
-  | [*Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand relevant network architecture & protocols | Beginner | Web Developers | Udacity |
-  | [Computer Networking (A Step Further)](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Beginner | Software Developers, Network Engineers, Network administrators | Lynda |
-  | [*Computer Networking (A Step Further)](https://www.coursetalk.com/providers/stanford-online/courses/introduction-to-computer-networking-self-paced?utm_medium=referral&utm_source=stanford-online&utm_campaign=widget&utm_content=counter#reviews)| Theories & algorithms behind networking concepts | Intermediate | Network Engineers, Network administrators | EdX |
-  | [*Computer Networking (Comprehensive)](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Advanced | Network Engineers, Network administrators | Udacity |
+  | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
+  |:----------------|:--------------|:-----|:---------|:---------|:---------|
+  | [Computer Networking in Everyday Life](https://www.coursera.org/learn/friends-money-bytes#)| Internet phenomenon (Google PageRank, YouTube viral videos) explained by netowrking principles | Coursera | All-levels | ~12 weeks | Free |
+  | [Computer Networking (Quick & Easy)](https://www.udacity.com/course/networking-for-web-developers--ud256)| One-stop shop for web-developers to understand all the network knowledge needed for web app development | Udacity | Beginner | ~2 weeks | Free |
+  | [Server Security (Quick & Easy)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Udacity | Beginner | ~1 week | Free |
+  | [Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Udacity | Intermediate | ~1 month | Udacity |
   
-  
-  
- #### Network Security
-      
-  | Course Link| Topics | Difficulty | Objective | MOOC Provider|
-  |:----------------|:--------------|:-----|:---------|:---------| 
-  | [**Server Security (Quick & Easy)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | Quick & easy steps to secure your Linux server | Beginner | Software Developers, Web Developers | Udacity |
-  | [**Server Security (More!)](https://www.lynda.com/Linux-tutorials/Linux-Network-Configuration/530434-2.html) | More configuration tricks to route traffic on your network via a Linux machine | Intermediate | Network Engineers, Network administrators, Hardware Engineers | Udacity |
-  | [**Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Intermediate | Software Developers, Network Engineers, Network administrators | Udacity |
-  | [Network Security under 1.5 hour](https://www.lynda.com/Windows-Server-tutorials/IT-Security-Foundations-Network-Security/410326-2.html) | Securing an organization's network, preperation for MTA 98-367 certification | Beginner | Network administrators | Udacity |
-  | [**Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Advanced | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
-  | [Ethical Hacking](https://www.lynda.com/Security-tutorials/Introduction-Ethical-Hacking/455716-2.html) | Overview of methods of obtaining passwords, cover spyware etc. | Intermediate | Network Engnineers, Network administrators, Ethical Hackers | Udacity |
-  | [Data-driven Network Security](https://www.lynda.com/Data-Science-tutorials/Data-Driven-Network-Security-Essentials/532189-2.html) | How to use data to improve network security | Intermediate | Network Engnineers, Network administrators | Udacity |
-  
-  
+### *Network Administrator/Engineer Track* <img width="30" src="https://www.azcomp.com/wp-content/uploads/2017/07/Lock-Logo-Icon-Blog-Security.ico">
 
+#### Core#1: Networking Fundamentals
+  | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
+  |:----------------|:--------------|:-----|:---------|:---------|:---------|
+  | [Computer Networking Fundamentals](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Lynda | Beginner | ~2 hours | $19.99/month membership|
+  | [Computer Networking Fundamentals](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about?utm_campaign=gotocourse&utm_medium=coursepage&utm_source=CourseTalk)| Theories & algorithms behind networking concepts | Stanford | Intermediate | ~4 weeks| Free |
+  | [Computer Networking Advanced](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Udacity | Advanced | ~3 months | Free |
   
- #### Certifications
+#### Core#2: Cyber Security
+  | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
+  |:----------------|:--------------|:-----|:---------|:---------|:---------|
+  | [Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Udacity | Intermediate | ~1 month | Udacity |
+  | [Network Security under 1.5 hour](https://www.lynda.com/Windows-Server-tutorials/IT-Security-Foundations-Network-Security/410326-2.html) | Securing an organization's network, preperation for MTA 98-367 certification | Lynda | Beginner | ~2 hours | $19.99/month membership |
+  | [Network Security](https://www.udacity.com/course/network-security--ud199) | Cybercrimes and how to detect them | Udacity | Intermediate | ~16 weeks | Free |
+  | [Server Security](https://www.lynda.com/Linux-tutorials/Linux-Network-Configuration/530434-2.html) | More configuration tricks to route traffic on your network via a Linux machine | Lynda | Intermediate | ~2 hours | $19.99/month membership |
+  | [Ethical Hacking](https://www.lynda.com/Security-tutorials/Introduction-Ethical-Hacking/455716-2.html) | Overview of methods of obtaining passwords, cover spyware etc. | Lynda | Intermediate | ~2 hours | $19.99/month membership |
+  | [Data-driven Network Security](https://www.lynda.com/Data-Science-tutorials/Data-Driven-Network-Security-Essentials/532189-2.html) | How to use data to improve network security | Lynda | Intermediate | ~2 hours | $19.99/month membership |
+  
+ ### Certifications <img width="30" src="https://image.flaticon.com/icons/png/128/214/214282.png">
       
- | Organization | Certification| Objective | Preperation|
+ [Find out which Cisco Certification is for You](https://www.cisco.com/c/m/en_us/training-events/students/tools/job-matrix.html)
+ 
+ | Organization | Certification | Objective | Training |
  |:-------|:----------------|:--------------|:-----|
- | Cisco | [Cisco certification programs](https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html) | xxx | xxx |
- | Microsoft | [Networking Fundamentals (Exam 98-366)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)|  Network/Systems Administrator | 40366A |
-  | Microsoft | [Windows Server Administration Fundamentals (Exam 98-365)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator | 40365A |
-  | Microsoft | [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx) | Network/Systems Administrator | 40367A(https://mva.microsoft.com/en-US/training-courses/security-fundamentals-8283?l=pinxx9Wy_5604984382) |
- | EC-Council | [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| Information Security Specialist | xxx |
+ | Cisco | [CCENT (Entry level)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) | Network/Systems Administrator | Network/Systems Administrator | [YouTube Training Videos](https://www.youtube.com/watch?v=KIlLOzRtm3g&list=PLARoRmMW-Hhc3C1dvgmCFXTPF4SrESXxV) |
+ | Cisco | [CCNA (Associate level)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html) | Network/Systems Administrator | [YouTube Training Videos](https://youtu.be/n2D1o-aM-2s) |
+ | Microsoft | [Networking Fundamentals (Exam 98-366)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)|  Network/Systems Administrator | [Networking and Security Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382) |
+  | Microsoft | [Windows Server Administration Fundamentals (Exam 98-365)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx)| Network/Systems Administrator | [Networking and Security Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382) |
+  | Microsoft | [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx) | Network/Systems Administrator | [Networking and Security Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382) |
+ | EC-Council | [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| Information Security Specialist | [YouTube Training videos](https://www.youtube.com/watch?v=t2mRNxfHTjw&list=PL7134FC0815ADB8EB)|
+ 
+ 
 
 - Full stack development (H)
   - Front-end development
@@ -160,8 +212,6 @@ Essential Skills:
   
 - Machine Learning (AI, natural language processing)(K)
 - Algorithms (H)
-- ? Operating Systems (K)
-- ? Compliers (K)
 
 - iOS (H)
   
