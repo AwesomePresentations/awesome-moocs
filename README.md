@@ -3,6 +3,17 @@ Ever wanted to create an Android application, get started in Machine Learning, o
 
 We have compiled this list of MOOC resources so that it is easily accessible to everyone! This list is also shared in Tapia Conference [Birds of a Feather Session](http://tapiaconference.org/schedule/thursday-september-21-2017/130pm-230pm-1/online-education-through-massive-open-online-courses/)
 
+Below are the list of topics we have covered here -
+- [Android](https://github.com/Tapia17/awesome-moocs#android)
+- [iOS](https://github.com/Tapia17/awesome-moocs#ios)
+- [Front End Development](https://github.com/Tapia17/awesome-moocs#front-end-development)
+- [Back End Development](https://github.com/Tapia17/awesome-moocs#back-end-development)
+- [Full Stack Development](https://github.com/Tapia17/awesome-moocs#full-stack-development)
+- [Algorithms](https://github.com/Tapia17/awesome-moocs#algorithms)
+- [IoT / Embedded Systems](https://github.com/Tapia17/awesome-moocs#iot-embedded-systems-)
+- [Computer Networking](https://github.com/Tapia17/awesome-moocs#computer-networking-)
+- [Machine Learning / Natural Language Processing](https://github.com/Tapia17/awesome-moocs#machine-learning-ai-natural-language-processing)
+
 ## __Android__
 If you want to learn Android from scratch, I would recommend the official source i.e. Google.
 
