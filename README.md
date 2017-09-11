@@ -276,15 +276,8 @@ As of now the challenge is not accepting new people, but you can clone the follo
   | Microsoft | [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx) | Network/Systems Administrator | [Networking and Security Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382) |
  | EC-Council | [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| Information Security Specialist | [YouTube Training videos](https://www.youtube.com/watch?v=t2mRNxfHTjw&list=PL7134FC0815ADB8EB)|
  
- 
-
-- Full stack development (H)
-  - Front-end development
-  - Back-end development
   
 ## Machine Learning (AI, natural language processing)
-
-- Algorithms (H)
 
 
 
