@@ -3,17 +3,6 @@ Ever wanted to create an Android application, get started in Machine Learning, o
 
 We have compiled this list of MOOC resources so that it is easily accessible to everyone! This list is also shared in Tapia Conference [Birds of a Feather Session](http://tapiaconference.org/schedule/thursday-september-21-2017/130pm-230pm-1/online-education-through-massive-open-online-courses/)
 
-Below are the list of topics we have covered here -
-- [Android](https://github.com/Tapia17/awesome-moocs#android)
-- [iOS](https://github.com/Tapia17/awesome-moocs#ios)
-- [Front End Development](https://github.com/Tapia17/awesome-moocs#front-end-development)
-- [Back End Development](https://github.com/Tapia17/awesome-moocs#back-end-development)
-- [Full Stack Development](https://github.com/Tapia17/awesome-moocs#full-stack-development)
-- [Algorithms](https://github.com/Tapia17/awesome-moocs#algorithms)
-- [IoT / Embedded Systems](https://github.com/Tapia17/awesome-moocs#iot-embedded-systems-)
-- [Computer Networking](https://github.com/Tapia17/awesome-moocs#computer-networking-)
-- [Machine Learning / Natural Language Processing](https://github.com/Tapia17/awesome-moocs#machine-learning-ai-natural-language-processing)
-
 ## __Android__
 If you want to learn Android from scratch, I would recommend the official source i.e. Google.
 
@@ -122,9 +111,9 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 ## __IoT (Embedded Systems)__ <img width="30" src="https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png">
   From smart thermostats to Amazon Echo home assistant, electronic devices are becoming more and more interconnected over the web. Internet of Things (IoT) describes a network of devices that collect data from built-in sensors and transfer that data over an information network, enabling us to monitor those physical devices remotely. 
   
-  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](https://github.com/Tapia17/awesome-moocs#the-hobbyist-guide-) to get your feet wet in creating your first smart device! 
+  Turns out, building your very own IoT device isn't hard at all! Follow the steps in [The Hobbyist Guide](.#The-Hobbyist-Guide) to get your feet wet in creating your first smart device! 
   
-  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](https://github.com/Tapia17/awesome-moocs#the-professional-guide-) to learn all about how the operating system, compiler and the hardware chip work together in an embeded system!
+  If you are a hobbyist aspiring to be an embedded systems professional, follow [The Professional Guide](.#The-Professional-Guide) to learn all about how the operating system, compiler and the hardware chip work together in an embedded system!
   
   ### *The Hobbyist Guide* <img width="30" src="https://d30y9cdsu7xlg0.cloudfront.net/png/120701-200.png" alt="Hobbyists">
   #### Step 1. Choose a Development Platform: 1) Raspberry-Pi or 2) Arduino 
@@ -246,6 +235,14 @@ As of now the challenge is not accepting new people, but you can clone the follo
   
 ## __Computer Networking__ <img width="30" src="http://innovativecomputersolutions.in/wp-content/uploads/2015/04/it-networking-services-company.png">
 
+Have you ever wondered how the internet works? What's underneath HTTP? How do you keep your web-browsing data safe from a man-in-the-middle attack?
+
+If you are a web developer, knowing networking protocols will help you develop faster and more reliable web apps. [Web & Software Developer Track](.#Web-&-Software-Developer-Track) is made just for you to learn just enough networking knowledge to up your productivity. 
+  
+If you are an aspiring network administrator/engineer, the [Network Administrator/Engineer Track](.#Network-Administrator/Engineer-Track) will help you master the [Fundamentals](.#Core#1.-Networking-Fundamentals), and [Cyber Security](.#Core#2.-Cyber-Security).
+Last but not least, you can consider getting [certified](.#Certifications) after taking these courses.
+  
+
 ### *Web & Software Developer Track* <img width="30" src="https://i.warosu.org/data/g/img/0606/46/1496083532801.png">
       
   | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
@@ -257,14 +254,14 @@ As of now the challenge is not accepting new people, but you can clone the follo
   
 ### *Network Administrator/Engineer Track* <img width="30" src="https://www.azcomp.com/wp-content/uploads/2017/07/Lock-Logo-Icon-Blog-Security.ico">
 
-#### Core#1: Networking Fundamentals
+#### Core#1. Networking Fundamentals
   | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
   |:----------------|:--------------|:-----|:---------|:---------|:---------|
   | [Computer Networking Fundamentals](https://www.lynda.com/Windows-Server-tutorials/Welcome/408231/435849-4.html)| In-depth understanding of networking models (OSI, TCP/IP), prepreation for MTA certification | Lynda | Beginner | ~2 hours | $19.99/month membership|
   | [Computer Networking Fundamentals](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about?utm_campaign=gotocourse&utm_medium=coursepage&utm_source=CourseTalk)| Theories & algorithms behind networking concepts | Stanford | Intermediate | ~4 weeks| Free |
   | [Computer Networking Advanced](https://www.udacity.com/course/computer-networking--ud436) | Review of networking concepts + Intro to Software-Defined Networking (with mini-projects to program network switch & create your own Firewall) | Udacity | Advanced | ~3 months | Free |
   
-#### Core#2: Cyber Security
+#### Core#2. Cyber Security
   | Course Link| Description | MOOC Provider| Skill level | Timeline | Cost |
   |:----------------|:--------------|:-----|:---------|:---------|:---------|
   | [Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) | How to secure everything (i.e. operating systems, database, web, mobile) | Udacity | Intermediate | ~1 month | Udacity |
@@ -275,8 +272,6 @@ As of now the challenge is not accepting new people, but you can clone the follo
   | [Data-driven Network Security](https://www.lynda.com/Data-Science-tutorials/Data-Driven-Network-Security-Essentials/532189-2.html) | How to use data to improve network security | Lynda | Intermediate | ~2 hours | $19.99/month membership |
   
  ### Certifications <img width="30" src="https://image.flaticon.com/icons/png/128/214/214282.png">
-      
- [Find out which Cisco Certification is for You](https://www.cisco.com/c/m/en_us/training-events/students/tools/job-matrix.html)
  
  | Organization | Certification | Objective | Training |
  |:-------|:----------------|:--------------|:-----|
@@ -287,6 +282,7 @@ As of now the challenge is not accepting new people, but you can clone the follo
   | Microsoft | [Microsoft Security Fundamentals (Exam 98-367)](https://www.microsoft.com/en-us/learning/exam-98-367.aspx) | Network/Systems Administrator | [Networking and Security Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382) |
  | EC-Council | [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)| Information Security Specialist | [YouTube Training videos](https://www.youtube.com/watch?v=t2mRNxfHTjw&list=PL7134FC0815ADB8EB)|
  
+ Overwhelmed? [Take a quiz to find out which Cisco certification is for you](https://www.cisco.com/c/m/en_us/training-events/students/tools/job-matrix.html)
   
 ## Machine Learning (AI, natural language processing)
 
