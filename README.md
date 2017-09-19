@@ -51,6 +51,8 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Capstone MOOC for "Android App Development"](https://www.coursera.org/learn/aadcapstone) | Coursera |
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
  
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
 
 ## __IOS__
 
@@ -72,6 +74,8 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) | Udacity | Intermediate | ~3 weeks | Free |
   | [All iOS courses by Udacity](https://www.udacity.com/courses/ios)| Udacity |
 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
 
 ## __Front-end development__
 
@@ -88,6 +92,8 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)| Udacity | Beginner | ~3 weeks | Free |
 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
 
 ## __Back-end development__
 
@@ -97,6 +103,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to backend](https://www.udacity.com/course/intro-to-backend--ud171)| Udacity | Beginner | ~3 weeks | Free |
 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 
 ## __Full Stack Development__
@@ -107,6 +114,8 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   |:--------|:-------------|:-------------|
   | [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)| Udacity | Amazon, AT&T, Google, Github |
 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
 
 ## __Algorithms__
 
@@ -116,7 +125,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)| Udacity | Beginner | ~4 months | Free |
 
-
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 
 ## __IoT (Embedded Systems)__ <img width="30" src="https://goapl.com/wp-content/uploads/2016/09/IOT_Icon_circle.png">
@@ -238,12 +247,9 @@ As of now the challenge is not accepting new people, but you can clone the [Eudy
   | [Qualcomm Dragonboard Platform w/ Networking Specialization (Project: Network Surveillance System)](https://www.coursera.org/specializations/internet-of-things#courses)| Coursera | Intermediate | 6 courses x 4 weeks/course | Free |
   | [Recommanded Soldering Kit for your Projects (not a course)](http://www.electricrcaircraftguy.com/2014/08/recommended-soldering-kit.html#.VYdqIPlViko)| ElectricRC Aircraft Guy| N/A | N/A | Free |
   
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 
-
-
-
-  
 ## __Computer Networking__ <img width="30" src="http://innovativecomputersolutions.in/wp-content/uploads/2015/04/it-networking-services-company.png">
 
 Have you ever wondered how the internet works? What's underneath HTTP? How do you keep your web-browsing data safe from a man-in-the-middle attack?
@@ -298,6 +304,8 @@ Last but not least, you can consider getting [certified](https://github.com/Tapi
  
  Overwhelmed? [Take a quiz to find out which Cisco certification is for you](https://www.cisco.com/c/m/en_us/training-events/students/tools/job-matrix.html)
   
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
 ## Machine Learning  <img width="30" src="https://d125fmws0bore1.cloudfront.net/assets/legacy/didi/machine-learning-icon-blue-a67a86f69bb33424353a42c0f1c42280f0f1a677431a5615c07d413477f3ed85.gif">
 
 [Fundamentals](https://github.com/Tapia17/awesome-moocs#fundamentals-): Whether you have prior knowledge about AI or machine learning, this module will help you learn various kinds of ML algorithms (supervised, unsupervised and reinforcemnt learning techniques). 
@@ -353,8 +361,8 @@ The diagram above illustrates the relationship between the three buzzwords - Mac
   | [Robotics Fundamentals (not ML)](https://www.coursera.org/specializations/robotics)| Everything you need to know about robotics (movement, environment perception etc.) | Coursera | Intermediate | ~24 weeks | Free |
   | [Robotics Dynamics & Control (not ML)](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0#!)| Nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning etc. | Coursera | Intermediate | ~11 weeks | Free |
   | [AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)| AI techqniques such as (planning and search, localization etc.) with a focus on robotics. | Udacity | Advanced | ~8 weeks | Free |
-  
 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 
 
@@ -371,6 +379,8 @@ The diagram above illustrates the relationship between the three buzzwords - Mac
 `Note : Please make sure all the links are working and up to date.` 
 
 Thank you for taking out time to help this project!
+
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 # License
 
