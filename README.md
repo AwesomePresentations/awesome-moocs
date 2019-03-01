@@ -262,41 +262,6 @@ First of all, choose a learning track from the following:
 
 Last but not least, you can consider getting [certified](https://github.com/Tapia17/awesome-moocs#certifications-) after taking these courses.
 
-## Contrast and Compare MOOCs
-
-#### Coursera
-1) Wide range of courses from world renowned universities and institutions. 
-2) Requires good amount of commitment.
-3) Courses range from free to upto $200 based on how generic you want it to be. Specializations usually cost more. 
-4) Benefit is that you can get a course completion certification with the institution’s name on it.
-5) Learners grade assignments among themselves. Might not be the most effective?? (why? Coz those grading you are not paid to do that! Might not grade seriously?? Also, it makes more sense to get graded by someone not taking the course with you.)
-
-#### Udacity
-1) More courses that help tackle real world industry problems. Better for the employability scenario.
-2) Teams up with industry giants as opposed to just universities. This broadens the variety and quality of courses and they are more aligned to get you trained for an industry job.
-3) Good choice if you want a job and need to learn skills in demand.
-4) Nanodegree, Nanodegree plus (guarantees a job in 6 months or money back!!!!)
-5) Offers incentives to completing a course early (trip to google or scholarships!!! :D)
-6) Assessment is done by industry coaches (more credible!!!)
-7) However, free programs are not given that much emphasis than their paid counterparts (https://www.udacity.com/course/android-basics-user-interface--ud834)
-
-
-#### EdX
-1) Partners with Ivy leagues and some industry leaders.
-2) Great platform to learn science focuses topics.
-3) Not very big outside the science domain.
-https://www.edx.org/course/Android-App-Development-for-Beginners-1
-
-
-#### LinkedIn Learning
-1) Great content. Great variety of all Lynda courses.
-2) Self-paced and offers cool learning features like playing the video at your own speed 1.5X, 2X the normal speed etc.
-3) Lynda offers cool features to practice real time as the lecture progresses.
-4) Directly link your courses on LinkedIn to keep your skills up to date. Great for attracting professionals to your profile.
-5) Since its self paced, it will need your commitment since there is no structured courses that force you to take em.
-
-##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
-
 ### *Web & Software Developer Track* <img width="30" src="https://i.warosu.org/data/g/img/0606/46/1496083532801.png">
       
   | Course Link| Description | MOOC Provider | Skill level | Timeline | Cost |
@@ -398,6 +363,41 @@ The diagram above illustrates the relationship between the three buzzwords - Mac
 
 ##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
+
+## Contrast and Compare MOOCs
+
+#### Coursera
+1) Wide range of courses from world renowned universities and institutions. 
+2) Requires good amount of commitment.
+3) Courses range from free to upto $200 based on how generic you want it to be. Specializations usually cost more. 
+4) Benefit is that you can get a course completion certification with the institution’s name on it.
+5) Learners grade assignments among themselves. Might not be the most effective?? (why? Coz those grading you are not paid to do that! Might not grade seriously?? Also, it makes more sense to get graded by someone not taking the course with you.)
+
+#### Udacity
+1) More courses that help tackle real world industry problems. Better for the employability scenario.
+2) Teams up with industry giants as opposed to just universities. This broadens the variety and quality of courses and they are more aligned to get you trained for an industry job.
+3) Good choice if you want a job and need to learn skills in demand.
+4) Nanodegree, Nanodegree plus (guarantees a job in 6 months or money back!!!!)
+5) Offers incentives to completing a course early (trip to google or scholarships!!! :D)
+6) Assessment is done by industry coaches (more credible!!!)
+7) However, free programs are not given that much emphasis than their paid counterparts (https://www.udacity.com/course/android-basics-user-interface--ud834)
+
+
+#### EdX
+1) Partners with Ivy leagues and some industry leaders.
+2) Great platform to learn science focuses topics.
+3) Not very big outside the science domain.
+https://www.edx.org/course/Android-App-Development-for-Beginners-1
+
+
+#### LinkedIn Learning
+1) Great content. Great variety of all Lynda courses.
+2) Self-paced and offers cool learning features like playing the video at your own speed 1.5X, 2X the normal speed etc.
+3) Lynda offers cool features to practice real time as the lecture progresses.
+4) Directly link your courses on LinkedIn to keep your skills up to date. Great for attracting professionals to your profile.
+5) Since its self paced, it will need your commitment since there is no structured courses that force you to take em.
+
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 
 # Contributing
