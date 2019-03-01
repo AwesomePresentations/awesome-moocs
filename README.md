@@ -295,6 +295,7 @@ https://www.edx.org/course/Android-App-Development-for-Beginners-1
 4) Directly link your courses on LinkedIn to keep your skills up to date. Great for attracting professionals to your profile.
 5) Since its self paced, it will need your commitment since there is no structured courses that force you to take em.
 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
 ### *Web & Software Developer Track* <img width="30" src="https://i.warosu.org/data/g/img/0606/46/1496083532801.png">
       
