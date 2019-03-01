@@ -1,7 +1,7 @@
 # Awesome MOOCs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Ever wanted to create an Android application, get started in Machine Learning, or utilize social media marketing but don’t know where to start? With massive open online courses (MOOCs), the task has become easier than ever before.
 
-We have compiled this list of MOOC resources so that it is easily accessible to everyone! This list is also shared in Tapia Conference [Birds of a Feather Session](http://tapiaconference.org/schedule/thursday-september-21-2017/130pm-230pm-1/online-education-through-massive-open-online-courses/)
+We have compiled this list of MOOC resources so that it is easily accessible to everyone! 
 
 +Below are the list of topics we have covered here -
  - [Android](https://github.com/Tapia17/awesome-moocs#android-)
