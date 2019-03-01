@@ -5,6 +5,10 @@ We have compiled this list of MOOC resources so that it is easily accessible to 
 
 +Below are the list of topics we have covered here -
  - [Android](https://github.com/Tapia17/awesome-moocs#android-)
+ - [Test Driven Development](https://github.com/Tapia17/awesome-moocs#test-driven-development)
+ - [Version Control](https://github.com/Tapia17/awesome-moocs#version-control)
+ - [RESTful APIs and Web Services](https://github.com/Tapia17/awesome-moocs#restful-apis-and-web-services)
+ - [Linux Command Line Basics](https://github.com/Tapia17/awesome-moocs#restful-linux-command-line-basics)
  - [iOS](https://github.com/Tapia17/awesome-moocs#ios)
  - [Front End Development](https://github.com/Tapia17/awesome-moocs#front-end-development)
  - [Back End Development](https://github.com/Tapia17/awesome-moocs#back-end-development)
@@ -50,6 +54,51 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [Engineering Maintainable Android Apps](https://www.coursera.org/specializations/android-app-development) | Coursera |
   | [Capstone MOOC for "Android App Development"](https://www.coursera.org/learn/aadcapstone) | Coursera |
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
+ 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
+
+## __Test Driven Development__
+
+| Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [User Interface](https://www.coursera.org/lecture/engineeringandroidapps/mock-objects-with-android-studio-9ZJKq)| Coursera | Beginner | ~4 weeks | Free |
+  | [User Interface](https://www.linkedin.com/learning/android-app-development-unit-testing/mock-objects)| LinkedIn Learning | Beginner | ~3 hours | Comes with premium subscription |
+ 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
+
+## __Version Control__
+
+| Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [User Interface](https://www.udacity.com/course/version-control-with-git--ud123)| Udacity | Beginner | ~4 weeks | Free |
+  | [User Interface](https://www.udacity.com/course/how-to-use-git-and-github--ud775)| Udacity | Beginner | ~3 weeks | Free |
+  | [User Interface](https://www.coursera.org/learn/version-control-with-git)| Coursera | Beginner | ~12 hours | Free |
+  | [User Interface](https://www.linkedin.com/learning/git-essential-training)| LinkedIn Learning | Beginner | ~7 hours | Comes with premium subscription |
+ 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
+
+  
+## RESTful APIs and Web Services
+
+| Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [User Interface](https://www.udacity.com/course/designing-restful-apis--ud388)| Udacity | Intermediate | ~3 weeks | Free |
+  | [User Interface](https://www.linkedin.com/learning/learning-rest-apis)| LinkedIn Learning | Beginner | ~2 hours | Comes with premium subscription |
+ 
+##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+
+
+
+## Linux Command Line Basics
+
+| Course Link| MOOC Provider| Skill level | Timeline | Cost
+  |:--------|:-------------|:-------------|:-------------|:-------------|
+  | [User Interface](https://www.udacity.com/course/linux-command-line-basics--ud595)| Udacity | Beginner | ~1 week | Free |
+  | [User Interface](https://www.codecademy.com/learn/learn-the-command-line)| Code Academy | Beginner | ~10 hours | Free |
+  | [User Interface](https://www.udemy.com/linux-command-line-volume1/)| Udemy | Beginner | ~5 hours | Paid |
  
 ##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
