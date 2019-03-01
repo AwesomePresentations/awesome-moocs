@@ -8,7 +8,7 @@ We have compiled this list of MOOC resources so that it is easily accessible to 
  - [Test Driven Development](https://github.com/Tapia17/awesome-moocs#test-driven-development)
  - [Version Control](https://github.com/Tapia17/awesome-moocs#version-control)
  - [RESTful APIs and Web Services](https://github.com/Tapia17/awesome-moocs#restful-apis-and-web-services)
- - [Linux Command Line Basics](https://github.com/Tapia17/awesome-moocs#restful-linux-command-line-basics)
+ - [Linux Command Line Basics](https://github.com/Tapia17/awesome-moocs#linux-command-line-basics)
  - [iOS](https://github.com/Tapia17/awesome-moocs#ios)
  - [Front End Development](https://github.com/Tapia17/awesome-moocs#front-end-development)
  - [Back End Development](https://github.com/Tapia17/awesome-moocs#back-end-development)
