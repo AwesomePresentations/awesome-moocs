@@ -81,7 +81,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 
 
   
-## RESTful APIs and Web Services
+## __RESTful APIs and Web Services__
 
 | Course Link| MOOC Provider| Skill level | Timeline | Cost
   |:--------|:-------------|:-------------|:-------------|:-------------|
@@ -92,7 +92,7 @@ __[Google Developers Training Course for Android](https://developers.google.com/
 
 
 
-## Linux Command Line Basics
+## __Linux Command Line Basics__
 
 | Course Link| MOOC Provider| Skill level | Timeline | Cost
   |:--------|:-------------|:-------------|:-------------|:-------------|
