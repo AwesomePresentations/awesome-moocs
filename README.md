@@ -408,7 +408,7 @@ The diagram above illustrates the relationship between the three buzzwords - Mac
   |:----------------|:--------------|:-----|:---------|:---------|:---------|
   | [Robotics Fundamentals (not ML)](https://www.coursera.org/specializations/robotics)| Everything you need to know about robotics (movement, environment perception etc.) | Coursera | Intermediate | ~24 weeks | Free |
   | [Robotics Dynamics & Control (not ML)](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0#!)| Nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning etc. | Coursera | Intermediate | ~11 weeks | Free |
-  | [AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)| AI techqniques such as (planning and search, localization etc.) with a focus on robotics. | Udacity | Advanced | ~8 weeks | Free |
+  | [AI for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)| AI techniques such as (planning and search, localization etc.) with a focus on robotics. | Udacity | Advanced | ~8 weeks | Free |
 
 ##### [Back to Top ↑ ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
 
