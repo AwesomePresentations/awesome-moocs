@@ -1,4 +1,4 @@
-## __IOS__
+## __iOS__
 
 #### Certifcations
   
@@ -18,4 +18,4 @@
   | [Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902) | Udacity | Intermediate | ~3 weeks | Free |
   | [All iOS courses by Udacity](https://www.udacity.com/courses/ios)| Udacity |
 
-##### [Back to Home ← ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+##### [← Back to Home ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
