@@ -5,17 +5,17 @@ We have compiled this list of MOOC resources so that it is easily accessible to 
 
 Below are the list of topics we have covered here -
  - [Android](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Android.md)
- - [Test Driven Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Test-Driven-Development.md.md)
+ - [Test Driven Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Test-Driven-Development.md)
  - [Version Control](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Version-Control.md)
- - [RESTful APIs and Web Services](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/RESTful-APIs-and-Web-Services.md.md)
- - [Linux Command Line Basics](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Linux-Command-Line-Basics.md.md)
+ - [RESTful APIs and Web Services](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/RESTful-APIs-and-Web-Services.md)
+ - [Linux Command Line Basics](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Linux-Command-Line-Basics.md)
  - [iOS](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/iOS.md)
  - [Front End Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Front-end-development.md)
  - [Back End Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources//Back-end-development.md)
- - [Full Stack Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Full-Stack-Development.md.md)
+ - [Full Stack Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Full-Stack-Development.md)
  - [Algorithms](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Algorithms.md)
  - [IoT / Embedded Systems](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/IoT.md)
- - [Computer Networking](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Computer-Networking.md.md)
+ - [Computer Networking](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Computer-Networking.md)
  - [Machine Learning](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Machine-Learning.md)
 
 ## Contrast and Compare MOOCs
