@@ -9,7 +9,7 @@ Below are the list of topics we have covered here -
  - [Version Control](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Version-Control.md)
  - [RESTful APIs and Web Services](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/RESTful-APIs-and-Web-Services.md)
  - [Linux Command Line Basics](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Linux-Command-Line-Basics.md)
- - [iOS](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/iOS.md)
+ - [iOS](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/IOS.md)
  - [Front End Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Front-end-development.md)
  - [Back End Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources//Back-end-development.md)
  - [Full Stack Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Full-Stack-Development.md)
