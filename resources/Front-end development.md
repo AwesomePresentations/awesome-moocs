@@ -13,4 +13,4 @@
   |:--------|:-------------|:-------------|:-------------|:-------------|
   | [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)| Udacity | Beginner | ~3 weeks | Free |
 
-##### [Back to Home ← ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+##### [← Back to Home ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
