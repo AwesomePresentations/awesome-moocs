@@ -1,5 +1,5 @@
 ## __Android__ <img width="30" src="http://findicons.com/files/icons/820/simply_google/128/google_android.png" />
-If you want to learn Android from scratch, I would recommend the official source i.e. Google.
+If you want to learn Android from scratch, we would recommend the official source i.e. Google.
 
 __[Google Developers Training Course for Android](https://developers.google.com/training/android/)__
 - It is the best place to learn Android as it covers from the basics to advanced level courses. Almost all of the courses here are hosted on [Udacity](https://www.udacity.com/). 
