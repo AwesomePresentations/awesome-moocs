@@ -32,15 +32,12 @@ Below are the list of topics we have covered here -
 4) Nanodegree, Nanodegree plus (guarantees a job in 6 months or money back!!!!)
 5) Offers incentives to completing a course early (trip to google or scholarships!!! :D)
 6) Assessment is done by industry coaches (more credible!!!)
-7) However, free programs are not given that much emphasis than their paid counterparts (https://www.udacity.com/course/android-basics-user-interface--ud834)
-
+7) However, free programs are not given that much emphasis than their paid counterparts.
 
 #### EdX
 1) Partners with Ivy leagues and some industry leaders.
 2) Great platform to learn science focuses topics.
 3) Not very big outside the science domain.
-https://www.edx.org/course/Android-App-Development-for-Beginners-1
-
 
 #### LinkedIn Learning
 1) Great content. Great variety of all Lynda courses.
