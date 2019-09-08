@@ -36,4 +36,4 @@ __[Google Developers Training Course for Android](https://developers.google.com/
   | [All Android courses by Udacity](https://www.udacity.com/courses/android)| Udacity |
   
   
-    ##### [← Back to Home ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
+##### [← Back to Home ](https://github.com/Tapia17/awesome-moocs#awesome-moocs-)
