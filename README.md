@@ -3,7 +3,7 @@ Ever wanted to create an Android application, get started in Machine Learning, o
 
 We have compiled this list of MOOC resources so that it is easily accessible to everyone! 
 
-+Below are the list of topics we have covered here -
+Below are the list of topics we have covered here -
  - [Android](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Android.md)
  - [Test Driven Development](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Test-Driven-Development.md.md)
  - [Version Control](https://github.com/AwesomePresentations/awesome-moocs/blob/master/resources/Version-Control.md)
